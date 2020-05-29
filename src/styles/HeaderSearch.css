@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
+.jumbotron {
+    background-color: #001a33;
+    border-bottom: red solid 5px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+}
